@@ -1,0 +1,12 @@
+C:\Users\korisnik\Documents\Studenti\Studenti\bin\Debug\Studenti.exe.config
+C:\Users\korisnik\Documents\Studenti\Studenti\bin\Debug\Studenti.exe
+C:\Users\korisnik\Documents\Studenti\Studenti\bin\Debug\Studenti.pdb
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.Properties.Resources.resources
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.csproj.GenerateResource.cache
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.exe
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.pdb
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.formStudenti.resources
+C:\Users\korisnik\Documents\Studenti\Studenti\obj\Debug\Studenti.formaUnosNovogStudenta.resources
